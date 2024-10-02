@@ -1,0 +1,25 @@
+:focus {
+    outline: 3px solid #005fcc;
+    outline-offset: 2px;
+}
+
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.mt-custom-32 {
+    margin-top: 32px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
